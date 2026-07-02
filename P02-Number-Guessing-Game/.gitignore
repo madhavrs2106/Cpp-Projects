@@ -1,0 +1,94 @@
+# ==========================================
+# C++ Build Files
+# ==========================================
+
+# Object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+*.lib
+
+# Shared libraries
+*.so
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.pdb
+*.idb
+
+# ==========================================
+# Build Directories
+# ==========================================
+
+build/
+bin/
+Debug/
+Release/
+x64/
+x86/
+
+# ==========================================
+# CMake
+# ==========================================
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# ==========================================
+# Visual Studio
+# ==========================================
+
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln.docstates
+
+# ==========================================
+# VS Code
+# ==========================================
+
+.vscode/
+
+# Uncomment this if you want to keep your VS Code settings
+# !.vscode/
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/c_cpp_properties.json
+
+# ==========================================
+# Code::Blocks
+# ==========================================
+
+*.layout
+*.depend
+
+# ==========================================
+# CLion / JetBrains
+# ==========================================
+
+.idea/
+cmake-build-*/
+
+# ==========================================
+# Logs
+# ==========================================
+
+*.log
+
+# ==========================================
+# OS Files
+# ==========================================
+
+.DS_Store
+Thumbs.db
