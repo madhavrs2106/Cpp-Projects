@@ -1,0 +1,40 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.pdb
+
+# Log files
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Code::Blocks
+bin/
+obj/
+
+# CLion
+cmake-build-*/
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+
+# Temporary files
+*.tmp
+*.temp
