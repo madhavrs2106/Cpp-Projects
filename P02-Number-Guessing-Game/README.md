@@ -1,4 +1,4 @@
-# 🎯 P02 - Number Guessing Game (C++)
+# 🎯 P02 - Number Guessing Game (C++ Console Game)
 
 ---
 
@@ -43,12 +43,13 @@ This project is part of my **Cpp-Projects** repository and focuses on practicing
 ## 📂 Project Structure
 
 ```
-Number-Guessing-Game/
+P02-Number-Guessing-Game/
 │
 ├── screenshot/
 │   └── output-screenshot.png
 │
-├── main.cpp
+├── Number_Guessing_Game.cpp
+├── .gitignore
 ├── README.md
 └── LICENSE
 ```
@@ -88,21 +89,6 @@ Attempts : 3
 
 
 ![Output Screenshot](screenshot/output-screenshot.png)
-
----
-
----
-
-## 🔮 Future Improvements
-
-- Difficulty Levels
-- Limited Attempts
-- Score System
-- Play Again Option
-- Input Validation
-- Timer
-- High Score Tracking
-- Colored Console Output
 
 ---
 
