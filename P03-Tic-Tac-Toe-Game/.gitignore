@@ -1,0 +1,39 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Code::Blocks
+bin/
+obj/
+*.layout
+*.depend
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+*.pdb
+*.ilk
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
