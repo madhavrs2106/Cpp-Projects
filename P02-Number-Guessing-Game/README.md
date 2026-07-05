@@ -92,21 +92,6 @@ Attempts : 3
 
 ---
 
----
-
-## 🔮 Future Improvements
-
-- Difficulty Levels
-- Limited Attempts
-- Score System
-- Play Again Option
-- Input Validation
-- Timer
-- High Score Tracking
-- Colored Console Output
-
----
-
 ## 👨‍💻 Author
 
 **Madhav Shukla**
