@@ -1,4 +1,4 @@
-# 🎯 P02 - Number Guessing Game (C++)
+# 🎯 P02 - Number Guessing Game (C++ Console Game)
 
 ---
 
