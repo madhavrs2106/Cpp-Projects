@@ -43,7 +43,7 @@ This project is part of my **Cpp-Projects** repository and focuses on practicing
 ## 📂 Project Structure
 
 ```
-Number-Guessing-Game/
+P02-Number-Guessing-Game/
 │
 ├── screenshot/
 │   └── output-screenshot.png
