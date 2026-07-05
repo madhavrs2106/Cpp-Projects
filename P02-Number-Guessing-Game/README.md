@@ -48,7 +48,8 @@ P02-Number-Guessing-Game/
 ├── screenshot/
 │   └── output-screenshot.png
 │
-├── main.cpp
+├── Number_Guessing_Game.cpp
+├── .gitignore
 ├── README.md
 └── LICENSE
 ```
