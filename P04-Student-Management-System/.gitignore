@@ -37,5 +37,3 @@ student_system
 *.njsproj
 *.sln
 *.swp
-
-data/students.txt

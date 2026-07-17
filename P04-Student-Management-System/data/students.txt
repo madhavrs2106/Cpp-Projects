@@ -1,0 +1,12 @@
+1001	Ashish Patidar	19	BTech
+1002	Aditya Patidar	18	BBA
+1003	Aditya Sharma	20	BTech
+1004	Aachal Farkiya	19	BCA
+1005	Anshika Sharma	20	BTech
+1006	Aavesh Khan	19	BTech
+1007	Bhavesh Patidar	21	BCA
+1008	Bhuvnesh Sharma	22	BTech
+1009	Chetan Kumar	19	BCA
+1010	Chetan Sharma	20	BCA
+1011	Dev Harjani	18	BBA
+1012	Dev Hirani	18	BBA
