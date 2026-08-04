@@ -30,16 +30,16 @@ Cpp-Projects/
 │   │   └── output-screenshot.png
 │   ├── calculator.cpp
 │   ├── .gitignore
-│   ├── README.md
-│   └── LICENSE
+│   ├── LICENSE
+│   └── README.md
 │
 ├── P02-Number-Guessing-Game/
 │   ├── screenshot/
 │   │   └── output-screenshot.png
 │   ├── Number_Guessing_Game.cpp
 │   ├── .gitignore
-│   ├── README.md
-│   └── LICENSE
+│   ├── LICENSE
+│   └── README.md
 │
 ├── P03-Tic-Tac-Toe-Game/
 │   ├── screenshot/
@@ -48,16 +48,22 @@ Cpp-Projects/
 │   │   └── winner.png
 │   ├── Tic_Tac_Toe.cpp
 │   ├── .gitignore
-│   ├── README.md
-│   └── LICENSE
+│   ├── LICENSE
+│   └── README.md
 │
 ├── P04-Student-Management-System/
 │   ├── data/
 │   │   └── students.txt
 │   ├── Student_Management_System.cpp
 │   ├── .gitignore
-│   ├── README.md
-│   └── LICENSE
+│   ├── LICENSE
+│   └── README.md
+│
+├── P05-Advanced-Pattern-Problems/
+│   ├── Advanced-Patterns.cpp
+│   ├── .gitignore
+│   ├── LICENSE
+│   └── README.md
 │
 └── Continuing..
 ```
@@ -93,20 +99,6 @@ Cpp-Projects/
 ## 📈 Learning Journey
 
 This repository is continuously updated as I learn new C++ concepts and build more projects. Every project represents another step in improving my programming skills.
-
----
-
-## 🤝 Contributions
-
-Suggestions, improvements, and feedback are always welcome. Feel free to fork the repository and submit a pull request.
-
----
-
-## ⭐ Support
-
-If you find this repository helpful, consider giving it a **⭐ Star**. It motivates me to keep building and sharing more projects.
-
-Happy Coding! 🚀
 
 ---
 
